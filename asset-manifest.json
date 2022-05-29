@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JaeHyeok-Han/react-study-todo-project/static/css/main.4035580e.css",
+    "main.js": "/JaeHyeok-Han/react-study-todo-project/static/js/main.bac9bff4.js",
+    "index.html": "/JaeHyeok-Han/react-study-todo-project/index.html",
+    "main.4035580e.css.map": "/JaeHyeok-Han/react-study-todo-project/static/css/main.4035580e.css.map",
+    "main.bac9bff4.js.map": "/JaeHyeok-Han/react-study-todo-project/static/js/main.bac9bff4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4035580e.css",
+    "static/js/main.bac9bff4.js"
+  ]
+}
